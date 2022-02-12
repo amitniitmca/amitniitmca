@@ -24,6 +24,28 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="500" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Salesforce Administraor :office_worker:, Developer :technologist:, Trainer :man_teacher: and Author :man_artist: from India.
+
+- :telescope: I’m working as a Salesforce Consultant in Concretio Apps Private Limited.
+
+- :seedling: Writing Blogs on Salesforce Technologies and Programming Languages.
+
+- :seedling: Providing free and paid Tutorials on various Technologies.
+
+- :zap: In my free time, I solve problems on Trailhead Community and read various tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitniitmca/)
+
+---
+
 
 <!--
 **amitniitmca/amitniitmca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
