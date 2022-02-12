@@ -1,19 +1,19 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/amitniitmca/">
+    <a href="https://www.linkedin.com/in/amitniitmca/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/c/programmingperception">
+    <a href="https://www.youtube.com/c/programmingperception" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="https://twitter.com/amitniitmca">
+    <a href="https://twitter.com/amitniitmca" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <a href="https://trailblazer.me/id/amitniitmca">
+    <a href="https://trailblazer.me/id/amitniitmca" target="_blank">
       <img src="https://img.shields.io/badge/Trailhead-cyan?style=for-the-badge&logo=Trailhead" alt="Trailhead Badge"/>
     </a>
-    <a href="https://medium.com/@amitpropertutorials">
+    <a href="https://medium.com/@amitpropertutorials" target="_blank">
       <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
     </a>
     <br />
