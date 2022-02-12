@@ -82,3 +82,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 
 ---
 
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
