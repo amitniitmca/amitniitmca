@@ -80,18 +80,13 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 
 ### :fire: My Stats :
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=amitniitmca&theme=vision-friendly-dark) 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amitniitmca&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitniitmca&layout=compact&theme=vision-friendly-dark)](https://github.com/amitniitmca/github-readme-stats)
 
 [![Amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=amitniitmca&theme=react-dark)](https://github.com/amitniitmca/github-readme-activity-graph)
-
----
-
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/amitniitmca/count.svg?align=center)
-
- ![Github stats](https://github-readme-stats.vercel.app/api?username=amitniitmca&theme=tokyonight)  
 
 ---
 
