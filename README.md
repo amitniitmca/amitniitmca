@@ -85,6 +85,14 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitniitmca&layout=compact&theme=vision-friendly-dark)](https://github.com/amitniitmca/github-readme-stats)
 
 [![Amit's github activity graph](https://activity-graph.herokuapp.com/graph?username=amitniitmca&theme=react-dark)](https://github.com/amitniitmca/github-readme-activity-graph)
+
+---
+
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/amitniitmca/count.svg?align=center)
+
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=amitniitmca&theme=tokyonight)  
+
 ---
 
 ### :writing_hand: Blog Posts :
