@@ -18,4 +18,3 @@ jobs:
           max_post_count: 50
           comment_tag_name: MEDIUM
           feed_list: "https://medium.com/feed/@amitpropertutorials"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
