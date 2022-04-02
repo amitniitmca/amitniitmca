@@ -16,6 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "MEDIUM"
-          max_post_count: "20"
           feed_list: "	https://medium.com/feed/@amitpropertutorials"
           template: "<tr><td>$title</td><td>$url</td></tr>"
