@@ -15,5 +15,5 @@ jobs:
       - name: Pull in medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "10"
           feed_list: "https://medium.com/feed/@amitpropertutorials"
+          max_post_count: "10"
