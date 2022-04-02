@@ -10,8 +10,10 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "15"
+          max_post_count: "20"
           feed_list: "	https://medium.com/feed/@amitpropertutorials"
