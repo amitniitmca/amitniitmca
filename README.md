@@ -95,6 +95,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockers with “Formulas and Validations” Module](https://amitpropertutorials.medium.com/blockers-with-formulas-and-validations-module-c3c866e420ef?source=rss-b88a5d7aa954------2)
 - [Business Administration Specialist Super Badge](https://amitpropertutorials.medium.com/business-administration-specialist-super-badge-bb9d0426831f?source=rss-b88a5d7aa954------2)
 - [Platform Developer-I Certification Maintenance &lpar;Winter’22&rpar;](https://amitpropertutorials.medium.com/platform-developer-i-certification-maintenance-winter22-bea88938600f?source=rss-b88a5d7aa954------2)
 - [I Love You Salesforce for…](https://amitpropertutorials.medium.com/i-love-you-salesforce-for-71a1bf572824?source=rss-b88a5d7aa954------2)
@@ -103,7 +104,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [Working with “Lightning Accordion” Component](https://amitpropertutorials.medium.com/working-with-lightning-accordion-component-c456ef813c77?source=rss-b88a5d7aa954------2)
 - [Blockers with “Create Reports and Dashboards for Sales and Marketing Managers” Project](https://amitpropertutorials.medium.com/blockers-with-create-reports-and-dashboards-for-sales-and-marketing-managers-project-68a92ff35c29?source=rss-b88a5d7aa954------2)
 - [Security Specialist Super badge](https://amitpropertutorials.medium.com/security-specialist-super-badge-bdacf5929d4f?source=rss-b88a5d7aa954------2)
-- [Blockers with “User Authentication” Module](https://amitpropertutorials.medium.com/blockers-with-user-authentication-module-1c4445dfdfdb?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
