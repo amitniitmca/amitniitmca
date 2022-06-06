@@ -33,7 +33,7 @@
 
 I am a Salesforce Administraor :office_worker:, Developer :technologist:, Trainer :man_teacher: and Author :man_artist: from India.
 
-- :heavy_check_mark: I’m 3x Salesforce Certified and 1x FormAssembly Certified.
+- :heavy_check_mark: I’m 4x Salesforce Certified and 1x FormAssembly Certified.
 
 - :heavy_check_mark: I’m working as a Salesforce Consultant in Concretio Apps Private Limited for the last 1.5 years.
 
