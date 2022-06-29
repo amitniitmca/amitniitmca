@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/amitniitmca/" target="_blank">
