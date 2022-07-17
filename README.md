@@ -35,7 +35,9 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 
 - :heavy_check_mark: I’m 4x Salesforce Certified and 1x FormAssembly Certified.
 
-- :heavy_check_mark: I’m working as a Salesforce Consultant in Concretio Apps Private Limited for the last 1.5 years.
+- :heavy_check_mark: I am working as Developer Support Engineer in Salesforce.
+
+- :heavy_check_mark: I have worked as a Salesforce Consultant for 2 years.
 
 - :heavy_check_mark: I have worked as a Java Web Developer for 3+ years.
 
