@@ -33,7 +33,7 @@
 
 I am a Salesforce Administraor :office_worker:, Developer :technologist:, Trainer :man_teacher: and Author :man_artist: from India.
 
-- :heavy_check_mark: I’m 4x Salesforce Certified and 1x FormAssembly Certified.
+- :heavy_check_mark: I’m 5x Salesforce Certified and 1x FormAssembly Certified.
 
 - :heavy_check_mark: I am working as a Developer Support Engineer in Salesforce.
 
