@@ -104,7 +104,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [जीना तुम सीख जाओ](https://amitpropertutorials.medium.com/%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BE-%E0%A4%A4%E0%A5%81%E0%A4%AE-%E0%A4%B8%E0%A5%80%E0%A4%96-%E0%A4%9C%E0%A4%BE%E0%A4%93-10a9b8023636?source=rss-b88a5d7aa954------2)
 - [Working with “Lightning Accordion” Component](https://amitpropertutorials.medium.com/working-with-lightning-accordion-component-c456ef813c77?source=rss-b88a5d7aa954------2)
 - [Blockers with “Create Reports and Dashboards for Sales and Marketing Managers” Project](https://amitpropertutorials.medium.com/blockers-with-create-reports-and-dashboards-for-sales-and-marketing-managers-project-68a92ff35c29?source=rss-b88a5d7aa954------2)
-- [Blockers with “User Authentication” Module](https://amitpropertutorials.medium.com/blockers-with-user-authentication-module-1c4445dfdfdb?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
