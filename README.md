@@ -35,7 +35,9 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 
 - :heavy_check_mark: I’m 5x Salesforce Certified and 1x FormAssembly Certified.
 
-- :heavy_check_mark: I am working as a Developer Support Engineer in Salesforce.
+- :heavy_check_mark: I am working as a Senior Salesforce Consultant in EY.
+
+- :heavy_check_mark: I have worked as a Developer Support Engineer in Salesforce for 1 year.
 
 - :heavy_check_mark: I have worked as a Salesforce Consultant for 2 years.
 
