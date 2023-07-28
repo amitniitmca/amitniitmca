@@ -35,13 +35,13 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 
 - :heavy_check_mark: I’m 5x Salesforce Certified and 1x FormAssembly Certified.
 
-- :heavy_check_mark: I am working as a Senior Salesforce Consultant in EY.
+- :heavy_check_mark: I am working as a Senior Salesforce Consultant at EY.
 
-- :heavy_check_mark: I have worked as a Developer Support Engineer in Salesforce for 1 year.
+- :heavy_check_mark: I have worked as a Developer Support Engineer at Salesforce for 1 year.
 
-- :heavy_check_mark: I have worked as a Salesforce Consultant for 2 years.
+- :heavy_check_mark: I have worked as a Salesforce Consultant at Concretio Apps Pvt. Ltd. for 2 years.
 
-- :heavy_check_mark: I have worked as a Java Web Developer for 3+ years.
+- :heavy_check_mark: I have worked as a Java Web Developer at Elegance Enterprises for 3+ years.
 
 - :heavy_check_mark: I have worked as a Software Trainer for 6+ years. 
 
