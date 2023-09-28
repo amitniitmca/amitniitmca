@@ -19,7 +19,7 @@
     <br />
     <img src="https://komarev.com/ghpvc/?username=amitniitmca&style=flat-square&color=blue" alt=""/>
   </div>
-  <h1>
+  <h1> 
     hey there
   </h1>
 </div>
