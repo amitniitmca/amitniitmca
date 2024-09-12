@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [January 2024: Einstein’s New Year Resolutions — To Work Smarter, Not Harder](https://amitpropertutorials.medium.com/january-2024-einsteins-new-year-resolutions-to-work-smarter-not-harder-4198d5201afa?source=rss-b88a5d7aa954------2)
 - [What is Programming?](https://amitpropertutorials.medium.com/what-is-programming-b572e1ffc106?source=rss-b88a5d7aa954------2)
 - [धरा को भो आकाश कर लिया।](https://amitpropertutorials.medium.com/%E0%A4%A7%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A5%8B-%E0%A4%AD%E0%A5%8B-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%95%E0%A4%B0-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-62058d08ae8?source=rss-b88a5d7aa954------2)
 - [Blockers with “Salesforce Flow” Module](https://amitpropertutorials.medium.com/blockers-with-salesforce-flow-module-32ded1213437?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [I Love You Salesforce for…](https://amitpropertutorials.medium.com/i-love-you-salesforce-for-71a1bf572824?source=rss-b88a5d7aa954------2)
 - [जीना तुम सीख जाओ](https://amitpropertutorials.medium.com/%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BE-%E0%A4%A4%E0%A5%81%E0%A4%AE-%E0%A4%B8%E0%A5%80%E0%A4%96-%E0%A4%9C%E0%A4%BE%E0%A4%93-10a9b8023636?source=rss-b88a5d7aa954------2)
 - [Working with “Lightning Accordion” Component](https://amitpropertutorials.medium.com/working-with-lightning-accordion-component-c456ef813c77?source=rss-b88a5d7aa954------2)
-- [Blockers with “Create Reports and Dashboards for Sales and Marketing Managers” Project](https://amitpropertutorials.medium.com/blockers-with-create-reports-and-dashboards-for-sales-and-marketing-managers-project-68a92ff35c29?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
