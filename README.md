@@ -98,16 +98,16 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DAY 4 — Configuration &amp; Setup [Part 3] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-4-configuration-setup-part-3-sacc-hindi-b1-9df6a19c8b65?source=rss-b88a5d7aa954------2)
+- [DAY 3 — Configuration &amp; Setup [Part 2] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-3-configuration-setup-part-2-sacc-hindi-b1-7c49637c6b47?source=rss-b88a5d7aa954------2)
+- [DAY 2 — Configuration &amp; Setup [Part 1] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-2-configuration-setup-part-1-sacc-hindi-b1-70dcc6768fa0?source=rss-b88a5d7aa954------2)
+- [DAY 1 — Introduction to Course, Exam, and Salesforce &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-1-introduction-to-course-exam-and-salesforce-sacc-hindi-b1-f68a18c42e25?source=rss-b88a5d7aa954------2)
 - [January 2024: Einstein’s New Year Resolutions — To Work Smarter, Not Harder](https://amitpropertutorials.medium.com/january-2024-einsteins-new-year-resolutions-to-work-smarter-not-harder-4198d5201afa?source=rss-b88a5d7aa954------2)
 - [What is Programming?](https://amitpropertutorials.medium.com/what-is-programming-b572e1ffc106?source=rss-b88a5d7aa954------2)
 - [धरा को भो आकाश कर लिया।](https://amitpropertutorials.medium.com/%E0%A4%A7%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A5%8B-%E0%A4%AD%E0%A5%8B-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%95%E0%A4%B0-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-62058d08ae8?source=rss-b88a5d7aa954------2)
 - [Blockers with “Salesforce Flow” Module](https://amitpropertutorials.medium.com/blockers-with-salesforce-flow-module-32ded1213437?source=rss-b88a5d7aa954------2)
 - [View and Manage Users](https://amitpropertutorials.medium.com/view-and-manage-users-a5a7b7e1d416?source=rss-b88a5d7aa954------2)
 - [Blockers with “Formulas and Validations” Module](https://amitpropertutorials.medium.com/blockers-with-formulas-and-validations-module-c3c866e420ef?source=rss-b88a5d7aa954------2)
-- [Platform Developer-I Certification Maintenance &lpar;Winter’22&rpar;](https://amitpropertutorials.medium.com/platform-developer-i-certification-maintenance-winter22-bea88938600f?source=rss-b88a5d7aa954------2)
-- [I Love You Salesforce for…](https://amitpropertutorials.medium.com/i-love-you-salesforce-for-71a1bf572824?source=rss-b88a5d7aa954------2)
-- [जीना तुम सीख जाओ](https://amitpropertutorials.medium.com/%E0%A4%9C%E0%A5%80%E0%A4%A8%E0%A4%BE-%E0%A4%A4%E0%A5%81%E0%A4%AE-%E0%A4%B8%E0%A5%80%E0%A4%96-%E0%A4%9C%E0%A4%BE%E0%A4%93-10a9b8023636?source=rss-b88a5d7aa954------2)
-- [Working with “Lightning Accordion” Component](https://amitpropertutorials.medium.com/working-with-lightning-accordion-component-c456ef813c77?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
