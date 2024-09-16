@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [DAY 5 — Configuration &amp; Setup [Part 4] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-5-configuration-setup-part-4-sacc-hindi-b1-790f57dce933?source=rss-b88a5d7aa954------2)
 - [DAY 4 — Configuration &amp; Setup [Part 3] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-4-configuration-setup-part-3-sacc-hindi-b1-9df6a19c8b65?source=rss-b88a5d7aa954------2)
 - [DAY 3 — Configuration &amp; Setup [Part 2] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-3-configuration-setup-part-2-sacc-hindi-b1-7c49637c6b47?source=rss-b88a5d7aa954------2)
 - [DAY 2 — Configuration &amp; Setup [Part 1] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-2-configuration-setup-part-1-sacc-hindi-b1-70dcc6768fa0?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [धरा को भो आकाश कर लिया।](https://amitpropertutorials.medium.com/%E0%A4%A7%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A5%8B-%E0%A4%AD%E0%A5%8B-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%95%E0%A4%B0-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-62058d08ae8?source=rss-b88a5d7aa954------2)
 - [Blockers with “Salesforce Flow” Module](https://amitpropertutorials.medium.com/blockers-with-salesforce-flow-module-32ded1213437?source=rss-b88a5d7aa954------2)
 - [View and Manage Users](https://amitpropertutorials.medium.com/view-and-manage-users-a5a7b7e1d416?source=rss-b88a5d7aa954------2)
-- [Blockers with “Formulas and Validations” Module](https://amitpropertutorials.medium.com/blockers-with-formulas-and-validations-module-c3c866e420ef?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
