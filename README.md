@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [March 2024: Marching Into Better Automation](https://amitpropertutorials.medium.com/march-2024-marching-into-better-automation-c415354d58ad?source=rss-b88a5d7aa954------2)
 - [Introduction to CRM](https://amitpropertutorials.medium.com/introduction-to-crm-cad558d81c4c?source=rss-b88a5d7aa954------2)
 - [February 2024: The One Where Salesforce Gets Even Lazier &lpar;In a Good Way&rpar;](https://amitpropertutorials.medium.com/february-2024-the-one-where-salesforce-gets-even-lazier-in-a-good-way-1ab914379b3f?source=rss-b88a5d7aa954------2)
 - [DAY 5 — Configuration &amp; Setup [Part 4] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-5-configuration-setup-part-4-sacc-hindi-b1-790f57dce933?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [DAY 1 — Introduction to Course, Exam, and Salesforce &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-1-introduction-to-course-exam-and-salesforce-sacc-hindi-b1-f68a18c42e25?source=rss-b88a5d7aa954------2)
 - [January 2024: Einstein’s New Year Resolutions — To Work Smarter, Not Harder](https://amitpropertutorials.medium.com/january-2024-einsteins-new-year-resolutions-to-work-smarter-not-harder-4198d5201afa?source=rss-b88a5d7aa954------2)
 - [What is Programming?](https://amitpropertutorials.medium.com/what-is-programming-b572e1ffc106?source=rss-b88a5d7aa954------2)
-- [धरा को भो आकाश कर लिया।](https://amitpropertutorials.medium.com/%E0%A4%A7%E0%A4%B0%E0%A4%BE-%E0%A4%95%E0%A5%8B-%E0%A4%AD%E0%A5%8B-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%95%E0%A4%B0-%E0%A4%B2%E0%A4%BF%E0%A4%AF%E0%A4%BE-62058d08ae8?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
