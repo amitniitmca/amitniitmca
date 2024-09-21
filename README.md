@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6 — Object Manager &amp; Lightning App Builder [Part 1] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-6-object-manager-lightning-app-builder-part-1-sacc-hindi-b1-01e92b1840ff?source=rss-b88a5d7aa954------2)
 - [March 2024: Marching Into Better Automation](https://amitpropertutorials.medium.com/march-2024-marching-into-better-automation-c415354d58ad?source=rss-b88a5d7aa954------2)
 - [Introduction to CRM](https://amitpropertutorials.medium.com/introduction-to-crm-cad558d81c4c?source=rss-b88a5d7aa954------2)
 - [February 2024: The One Where Salesforce Gets Even Lazier &lpar;In a Good Way&rpar;](https://amitpropertutorials.medium.com/february-2024-the-one-where-salesforce-gets-even-lazier-in-a-good-way-1ab914379b3f?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [DAY 2 — Configuration &amp; Setup [Part 1] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-2-configuration-setup-part-1-sacc-hindi-b1-70dcc6768fa0?source=rss-b88a5d7aa954------2)
 - [DAY 1 — Introduction to Course, Exam, and Salesforce &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-1-introduction-to-course-exam-and-salesforce-sacc-hindi-b1-f68a18c42e25?source=rss-b88a5d7aa954------2)
 - [January 2024: Einstein’s New Year Resolutions — To Work Smarter, Not Harder](https://amitpropertutorials.medium.com/january-2024-einsteins-new-year-resolutions-to-work-smarter-not-harder-4198d5201afa?source=rss-b88a5d7aa954------2)
-- [What is Programming?](https://amitpropertutorials.medium.com/what-is-programming-b572e1ffc106?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
