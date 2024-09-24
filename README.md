@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [April 2024: Spring Cleaning for Your CRM](https://amitpropertutorials.medium.com/april-2024-spring-cleaning-for-your-crm-9259347ac3e0?source=rss-b88a5d7aa954------2)
 - [Day 7 — Object Manager &amp; Lightning App Builder [Part 2] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-7-object-manager-lightning-app-builder-part-2-sacc-hindi-b1-0c7de023aca2?source=rss-b88a5d7aa954------2)
 - [Day 6 — Object Manager &amp; Lightning App Builder [Part 1] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-6-object-manager-lightning-app-builder-part-1-sacc-hindi-b1-01e92b1840ff?source=rss-b88a5d7aa954------2)
 - [March 2024: Marching Into Better Automation](https://amitpropertutorials.medium.com/march-2024-marching-into-better-automation-c415354d58ad?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [DAY 4 — Configuration &amp; Setup [Part 3] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-4-configuration-setup-part-3-sacc-hindi-b1-9df6a19c8b65?source=rss-b88a5d7aa954------2)
 - [DAY 3 — Configuration &amp; Setup [Part 2] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-3-configuration-setup-part-2-sacc-hindi-b1-7c49637c6b47?source=rss-b88a5d7aa954------2)
 - [DAY 2 — Configuration &amp; Setup [Part 1] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-2-configuration-setup-part-1-sacc-hindi-b1-70dcc6768fa0?source=rss-b88a5d7aa954------2)
-- [DAY 1 — Introduction to Course, Exam, and Salesforce &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-1-introduction-to-course-exam-and-salesforce-sacc-hindi-b1-f68a18c42e25?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
