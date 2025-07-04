@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Programming Languages: From Cave Paintings to Java](https://amitpropertutorials.medium.com/programming-languages-from-cave-paintings-to-java-9f88a18153ee?source=rss-b88a5d7aa954------2)
 - [Salesforce Basics](https://amitpropertutorials.medium.com/salesforce-basics-7caaceb21e6b?source=rss-b88a5d7aa954------2)
 - [Day 8 — Object Manager &amp; Lightning App Builder [Part 3] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-8-object-manager-lightning-app-builder-part-3-sacc-hindi-b1-f2a9ad1f606e?source=rss-b88a5d7aa954------2)
 - [April 2024: Spring Cleaning for Your CRM](https://amitpropertutorials.medium.com/april-2024-spring-cleaning-for-your-crm-9259347ac3e0?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [Introduction to CRM](https://amitpropertutorials.medium.com/introduction-to-crm-cad558d81c4c?source=rss-b88a5d7aa954------2)
 - [February 2024: The One Where Salesforce Gets Even Lazier &lpar;In a Good Way&rpar;](https://amitpropertutorials.medium.com/february-2024-the-one-where-salesforce-gets-even-lazier-in-a-good-way-1ab914379b3f?source=rss-b88a5d7aa954------2)
 - [DAY 5 — Configuration &amp; Setup [Part 4] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-5-configuration-setup-part-4-sacc-hindi-b1-790f57dce933?source=rss-b88a5d7aa954------2)
-- [DAY 4 — Configuration &amp; Setup [Part 3] &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-4-configuration-setup-part-3-sacc-hindi-b1-9df6a19c8b65?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
