@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Salesforce Career in 2026: What Has Changed and What You Should Do?](https://amitpropertutorials.medium.com/salesforce-career-in-2026-what-has-changed-and-what-you-should-do-bd8a735366bb?source=rss-b88a5d7aa954------2)
 - [Control Structures in Programming — Your Code’s GPS System](https://amitpropertutorials.medium.com/control-structures-in-programming-your-codes-gps-system-2b75baa5c456?source=rss-b88a5d7aa954------2)
 - [Logic Building Tools — Because Even Computers Need a Game Plan!](https://amitpropertutorials.medium.com/logic-building-tools-because-even-computers-need-a-game-plan-5e73149d2510?source=rss-b88a5d7aa954------2)
 - [Programming Languages: From Cave Paintings to Java](https://amitpropertutorials.medium.com/programming-languages-from-cave-paintings-to-java-9f88a18153ee?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [Day 7 — Object Manager &amp; Lightning App Builder [Part 2] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-7-object-manager-lightning-app-builder-part-2-sacc-hindi-b1-0c7de023aca2?source=rss-b88a5d7aa954------2)
 - [Day 6 — Object Manager &amp; Lightning App Builder [Part 1] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-6-object-manager-lightning-app-builder-part-1-sacc-hindi-b1-01e92b1840ff?source=rss-b88a5d7aa954------2)
 - [March 2024: Marching Into Better Automation](https://amitpropertutorials.medium.com/march-2024-marching-into-better-automation-c415354d58ad?source=rss-b88a5d7aa954------2)
-- [Introduction to CRM](https://amitpropertutorials.medium.com/introduction-to-crm-cad558d81c4c?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
