@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Flow vs Apex: How I Decide in Real Salesforce Projects?](https://amitpropertutorials.medium.com/flow-vs-apex-how-i-decide-in-real-salesforce-projects-e4ef4ffbcbf4?source=rss-b88a5d7aa954------2)
 - [Why Do Most Salesforce Implementations Fail? &lpar;From My Experience&rpar;](https://amitpropertutorials.medium.com/why-do-most-salesforce-implementations-fail-from-my-experience-f35aa5e5e376?source=rss-b88a5d7aa954------2)
 - [Salesforce Learning Roadmap in 2026](https://amitpropertutorials.medium.com/salesforce-learning-roadmap-in-2026-2686889bce35?source=rss-b88a5d7aa954------2)
 - [Salesforce Career in 2026: What Has Changed and What You Should Do?](https://amitpropertutorials.medium.com/salesforce-career-in-2026-what-has-changed-and-what-you-should-do-bd8a735366bb?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [Salesforce Basics](https://amitpropertutorials.medium.com/salesforce-basics-7caaceb21e6b?source=rss-b88a5d7aa954------2)
 - [Day 8 — Object Manager &amp; Lightning App Builder [Part 3] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-8-object-manager-lightning-app-builder-part-3-sacc-hindi-b1-f2a9ad1f606e?source=rss-b88a5d7aa954------2)
 - [April 2024: Spring Cleaning for Your CRM](https://amitpropertutorials.medium.com/april-2024-spring-cleaning-for-your-crm-9259347ac3e0?source=rss-b88a5d7aa954------2)
-- [Day 7 — Object Manager &amp; Lightning App Builder [Part 2] — &lpar;SACC — Hindi — B1&rpar;](https://amitpropertutorials.medium.com/day-7-object-manager-lightning-app-builder-part-2-sacc-hindi-b1-0c7de023aca2?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
