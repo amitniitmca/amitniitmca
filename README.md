@@ -98,6 +98,7 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Biggest Mistakes I’ve Seen Salesforce Developers Make in Real Projects](https://amitpropertutorials.medium.com/biggest-mistakes-ive-seen-salesforce-developers-make-in-real-projects-64cfe5960e9a?source=rss-b88a5d7aa954------2)
 - [What Recruiters Actually Look for in a Salesforce Lead?](https://amitpropertutorials.medium.com/what-recruiters-actually-look-for-in-a-salesforce-lead-62e713ac9377?source=rss-b88a5d7aa954------2)
 - [How I Would Design a Scalable Salesforce System? &lpar;Step-by-Step Thinking&rpar;](https://amitpropertutorials.medium.com/how-i-would-design-a-scalable-salesforce-system-step-by-step-thinking-0188dd8d391d?source=rss-b88a5d7aa954------2)
 - [Flow vs Apex: How I Decide in Real Salesforce Projects?](https://amitpropertutorials.medium.com/flow-vs-apex-how-i-decide-in-real-salesforce-projects-e4ef4ffbcbf4?source=rss-b88a5d7aa954------2)
@@ -107,7 +108,6 @@ I am a Salesforce Administraor :office_worker:, Developer :technologist:, Traine
 - [Control Structures in Programming — Your Code’s GPS System](https://amitpropertutorials.medium.com/control-structures-in-programming-your-codes-gps-system-2b75baa5c456?source=rss-b88a5d7aa954------2)
 - [Logic Building Tools — Because Even Computers Need a Game Plan!](https://amitpropertutorials.medium.com/logic-building-tools-because-even-computers-need-a-game-plan-5e73149d2510?source=rss-b88a5d7aa954------2)
 - [Programming Languages: From Cave Paintings to Java](https://amitpropertutorials.medium.com/programming-languages-from-cave-paintings-to-java-9f88a18153ee?source=rss-b88a5d7aa954------2)
-- [Salesforce Basics](https://amitpropertutorials.medium.com/salesforce-basics-7caaceb21e6b?source=rss-b88a5d7aa954------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
